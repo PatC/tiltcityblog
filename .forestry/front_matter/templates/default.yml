@@ -1,4 +1,6 @@
 ---
+pages:
+- posts/if-you-do-a-static-blog-and-it-s-all-in-github-and-that-s-public--what-s-the-difference-.md
 hide_body: false
 fields:
 - name: title
